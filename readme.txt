@@ -1,4 +1,4 @@
-Looking for J2ME & Gaming Book, visit SourceForge.net http://sourceforge.net/projects/j2megamingbook/
+Looking for J2ME & Gaming Book, visit SourceForge.net <a href="http://sourceforge.net/projects/j2megamingbook/">http://sourceforge.net/projects/j2megamingbook/</a>
 
 ------------------------------------------------------
 
