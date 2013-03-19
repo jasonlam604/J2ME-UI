@@ -1,20 +1,14 @@
 Looking for J2ME & Gaming Book, visit SourceForge.net http://sourceforge.net/projects/j2megamingbook/
 
-------------------------------------------------------
+------------------
 
-Who:
-jasonlam604.com
-
-Title:
-J2ME-UI
-
-Description:
+#Description
+===============
 J2ME UI Canvas code, used back before things like LWUIT was around; as well, before iOS and Android became popular.
 More or less dated code, here for archive purposes.
 
-
-Copyright:
-
+#License
+===============
 Copyright 2012 JLam Software Services
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
