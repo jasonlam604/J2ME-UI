@@ -21,4 +21,4 @@ No support available
 
 ## Copyright and license
 
-Code released under [the MIT license](https://github.com/jasonlam604/J2ME-UI/blob/master/LICENSE). 
+Code released under [Apache License Version 2.0](https://github.com/jasonlam604/J2ME-UI/blob/master/LICENSE). 
