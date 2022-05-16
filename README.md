@@ -13,14 +13,6 @@ More or less dated code, here for archive purposes.
 
 No support available
 
-## Creator
-
-**Jason Lam**
-
-- <https://www.jasonlam604.com>
-- <https://github.com/jasonlam604>
-- <https://twitter.com/jasonlam604>
-
 ## Copyright and license
 
 Code released under [Apache License Version 2.0](https://github.com/jasonlam604/J2ME-UI/blob/master/LICENSE). 
